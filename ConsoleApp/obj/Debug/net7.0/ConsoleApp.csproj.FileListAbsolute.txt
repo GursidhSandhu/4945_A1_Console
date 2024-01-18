@@ -1,0 +1,15 @@
+/Users/gursidhsandhu/RiderProjects/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp
+/Users/gursidhsandhu/RiderProjects/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.deps.json
+/Users/gursidhsandhu/RiderProjects/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.runtimeconfig.json
+/Users/gursidhsandhu/RiderProjects/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.dll
+/Users/gursidhsandhu/RiderProjects/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.pdb
+/Users/gursidhsandhu/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.AssemblyReference.cache
+/Users/gursidhsandhu/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gursidhsandhu/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/gursidhsandhu/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfo.cs
+/Users/gursidhsandhu/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/gursidhsandhu/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.dll
+/Users/gursidhsandhu/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net7.0/refint/ConsoleApp.dll
+/Users/gursidhsandhu/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.pdb
+/Users/gursidhsandhu/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.genruntimeconfig.cache
+/Users/gursidhsandhu/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ref/ConsoleApp.dll
