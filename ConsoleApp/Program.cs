@@ -6,7 +6,7 @@ namespace ConsoleApp
 {
     internal class Program
     {
-        public static void Main(string[] args)
+        static async Task Main()
         {
             // Use localhost and port 8080  to connect
             string serverIp = "localhost";
@@ -53,19 +53,19 @@ namespace ConsoleApp
                         // Read the response headers from the server
                         byte[] buffer = new byte[1024];
                         int bytesRead = clientSocket.Receive(buffer);
-                        string responseHeaders = Encoding.UTF8.GetString(buffer, 0, bytesRead);
+                        string response = Encoding.UTF8.GetString(buffer, 0, bytesRead);
 
-                        Console.WriteLine("Response Headers:\n" + responseHeaders);
+                        Console.WriteLine("Response from Server:\n" + response);
 
                         // Read and print the content of the response body (assuming JSON)
-                        StringBuilder responseBody = new StringBuilder();
-                        while (clientSocket.Available > 0)
-                        {
-                            bytesRead = clientSocket.Receive(buffer);
-                            responseBody.Append(Encoding.UTF8.GetString(buffer, 0, bytesRead));
-                        }
-
-                        Console.WriteLine("Response Body (JSON):\n" + responseBody.ToString());
+                        // StringBuilder responseBody = new StringBuilder();
+                        // while (clientSocket.Available > 0)
+                        // {
+                        //     bytesRead = clientSocket.Receive(buffer);
+                        //     responseBody.Append(Encoding.UTF8.GetString(buffer, 0, bytesRead));
+                        // }
+                        //
+                        // Console.WriteLine("Response Body (JSON):\n" + responseBody.ToString());
                     }
                     else
                     {
